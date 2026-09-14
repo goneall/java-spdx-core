@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.spdx</groupId>
   <artifactId>spdx-java-core</artifactId>
-  <version>1.0.5</version>
+  <version>1.0.6-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>spdx-java-core</name>
   <description>Core libraries for SPDX</description>
@@ -31,13 +31,13 @@
     <url>https://github.com/spdx/spdx-java-core</url>
     <connection>scm:git:git://github.com/spdx/spdx-java-core.git</connection>
     <developerConnection>scm:git:git@github.com:spdx/spdx-java-core.git</developerConnection>
-    <tag>v1.0.5</tag>
+    <tag>HEAD</tag>
   </scm>
   <properties>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <project.build.outputTimestamp>1789429383</project.build.outputTimestamp>
+    <project.build.outputTimestamp>1789429404</project.build.outputTimestamp>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.organization>spdx-1</sonar.organization>
     <sonar.projectKey>spdx-java-core</sonar.projectKey>
